@@ -18,8 +18,8 @@ export default function Home() {
        <h3>Contributors:</h3>
        <table border="1">
          <tr>
-           <th>名前</th>
-           <th>日時</th>
+           <th>宗片吉史</th>
+           <th>2025/12/15</th>
          </tr>
          <tr>
            <td>柏 祐太郎</td>
